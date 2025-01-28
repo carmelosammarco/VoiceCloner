@@ -15,7 +15,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       title: 'Voice cloner',
-      link: [{ rel: 'icon', type: 'image/x-icon', href: 'public/favicon.ico' }],
+      link: [{ rel: 'icon', type: 'image/x-icon', href: '/public/favicon.ico' }],
       meta: [
         { hid: 'charset', charset: 'utf-8' },
         { 'http-equiv': 'X-UA-Compatible', content: 'IE=edge' },
