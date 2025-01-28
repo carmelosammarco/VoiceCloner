@@ -39,7 +39,7 @@
 
     .text-base.font-normal.mt-2.text-center(
       class="lg:text-xl lg:mt-4"
-    ) Sara' possibile farle leggere qualsiasi testo contenuto deltro al text-box che apparira'.
+    ) Dopodiché Sará possibile farle leggere qualsiasi testo scritto.
 
     .text-base.font-normal.mt-2.text-center(
       class="lg:text-xl lg:mt-4"
