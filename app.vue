@@ -8,7 +8,7 @@
     )
       | Voice Cloner
       a.ml-6(
-        href="https://github.com/Pwntus/voice-cloner"
+        href="https://github.com/carmelosammarco/VoiceCloner"
         target="_new"
         style="display: inline-block;"
       )
