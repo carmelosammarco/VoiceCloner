@@ -51,11 +51,11 @@ export default {
     isRecording: false,
 
     sentences: [
-      'The quick brown fox jumps over the lazy dog.',
-      'Pack my box with five dozen liquor jugs.',
-      'How razorback-jumping frogs can level six piqued gymnasts!',
-      'Mr Jock, TV quiz PhD, bags few lynx.',
-      'The five boxing wizards jump quickly.'
+      'Sette secchi di ceci secchi sotto sette secche siepi siciliane.',
+      'Cocci rotti raccolti a rotta di collo da colli corti con cappucci colorati.',
+      'Sopra il prato, sotto il piatto, cinque pipistrelli prendono il latte in un solo fiato.',
+      'Se il sereno non si scambia con il sole, sarà sempre solo sereno senza sole.',
+      'Quattro gatti sul tetto chiacchierano chiusi in quattro chiassosi chiostri.'
     ]
   }),
   methods: {

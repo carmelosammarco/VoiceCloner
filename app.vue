@@ -105,11 +105,11 @@ export default {
 
     loading: false,
     languages: [
+      { text: 'Italian', value: 'it' },
       { text: 'English', value: 'en' },
       { text: 'Spanish', value: 'es' },
       { text: 'French', value: 'fr' },
       { text: 'German', value: 'de' },
-      { text: 'Italian', value: 'it' },
       { text: 'Russian', value: 'ru' },
       { text: 'Dutch', value: 'nl' },
       { text: 'Arabic', value: 'ar' },
