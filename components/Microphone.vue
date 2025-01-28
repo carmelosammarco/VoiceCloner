@@ -130,14 +130,14 @@ export default {
 
   button
     padding 10px 20px
-    border 1px solid #000
-    background #000
-    color #fff
+    border 1px solid #000000
+    background #B71C1C
+    color #000000
     font-size 20px
-    font-weight 200
+    font-weight 300
 
     &:hover
-      background #666
+      background #F4511E
 
   #modal
     z-index 100

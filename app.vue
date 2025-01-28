@@ -194,13 +194,13 @@ export default {
   button
     padding 10px 20px
     border 1px solid #000000
-    background #B71C1C
+    background #00C853
     color #000000
     font-size 20px
     font-weight 300
 
     &:hover
-      background #F4511E
+      background #00E676
 
   .output
     margin-top 15px
@@ -208,5 +208,5 @@ export default {
     background #cef00c
 
     audio
-      width 50%
+      width 100%
 </style>
