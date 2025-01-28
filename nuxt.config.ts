@@ -26,7 +26,7 @@ export default defineNuxtConfig({
             'width=device-width,height=device-height,initial-scale=1.0,user-scalable=0,minimum-scale=1.0,maximum-scale=1.0,viewport-fit=cover'
         },
 
-        { hid: 'author', name: 'author', content: 'Pontus Aurdal' },
+        { hid: 'author', name: 'author', content: 'Carmelo Sammarco' },
         {
           hid: 'description',
           name: 'description',
