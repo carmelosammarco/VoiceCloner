@@ -100,8 +100,8 @@ export default {
   name: 'App',
   data: () => ({
     speaker: null,
-    text: `This is not my real voice, but perhaps it's pretty close to the real one?`,
-    language: 'en',
+    text: `Ok, adesso ho una voce clonata. Il prossimo passo è un corpo robotico, giusto?`,
+    language: 'it',
 
     loading: false,
     languages: [
