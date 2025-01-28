@@ -197,7 +197,7 @@ export default {
     background #00C853
     color #000000
     font-size 20px
-    font-weight 300
+    font-weight 400
 
     &:hover
       background #00E676
