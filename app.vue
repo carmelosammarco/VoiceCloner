@@ -35,7 +35,7 @@
           polygon(points="1000,0 1000,113.2 126.4,113.2 126.4,1000 0,1000 0,0")
     .text-base.font-normal.mt-2.text-center(
       class="lg:text-xl lg:mt-4"
-    ) Registra un campione della tua voce e lascia che l'AI la cloni. Finito questo processo potra farle leggere quello che vorrai!
+    ) Registra un campione della tua voce e lascia che l'AI la cloni. \n Dopo sara' possibile farle leggere cio' ce vorrai!
 
     microphone.mt-2(
       @data="onData"
