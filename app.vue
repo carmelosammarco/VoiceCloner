@@ -6,7 +6,7 @@
     .text-3xl.font-medium.mt-2.text-center(
       class="lg:text-5xl lg:mt-4"
     )
-      |VOICE CLONER|  powered by:
+      | VOICE CLONER
       a.ml-6(
         href="https://github.com/carmelosammarco/VoiceCloner"
         target="_new"
