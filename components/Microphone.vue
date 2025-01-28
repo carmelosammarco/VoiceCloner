@@ -8,7 +8,7 @@
     #card
       .text-base.font-normal(
         class="lg:text-xl"
-      ) Read out loud the following in a clear voice:
+      ) Leggilo a voce alta e in modo chiaro:
       .text-3xl.font-medium.mt-2(
         class="lg:text-5xl lg:mt-4"
       ) {{ getSentence() }}
