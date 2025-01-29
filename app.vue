@@ -35,15 +35,14 @@
           polygon(points="1000,0 1000,113.2 126.4,113.2 126.4,1000 0,1000 0,0")
     .text-base.font-normal.mt-2.text-center(
       class="lg:text-xl lg:mt-4"
-    ) Registra un campione della tua voce e lascia che l'AI la cloni. 
+    ) 1-Record your voice using the popping up text to train A.I. model.
+    .text-base.font-normal.mt-2.text-center(
+      class="lg:text-xl lg:mt-4"
+    ) 2-Write a any text prompt to be red by A.I.
 
     .text-base.font-normal.mt-2.text-center(
       class="lg:text-xl lg:mt-4"
-    ) Dopodiché Sará possibile farle leggere qualsiasi testo scritto.
-
-    .text-base.font-normal.mt-2.text-center(
-      class="lg:text-xl lg:mt-4"
-    ) Buon Divertimento!
+    ) 3-Click "Speak", A.I. will read the text using your cloned voice. 
 
     microphone.mt-2(
       @data="onData"
