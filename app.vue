@@ -35,14 +35,14 @@
           polygon(points="1000,0 1000,113.2 126.4,113.2 126.4,1000 0,1000 0,0")
     .text-base.font-normal.mt-2.text-center(
       class="lg:text-xl lg:mt-4"
-    ) 1 - "Record" your voice by reading pop-up.
+    ) 1 - "Record" your voice.
     .text-base.font-normal.mt-2.text-center(
       class="lg:text-xl lg:mt-4"
-    ) 2 - Write a text prompt to be used by the A.I.
+    ) 2 - Write a text prompt.
 
     .text-base.font-normal.mt-2.text-center(
       class="lg:text-xl lg:mt-4"
-    ) 3 - "Speak", A.I. will clone your voice. 
+    ) 3 - "Speak", A.I. clones your voice. 
 
     microphone.mt-2(
       @data="onData"
